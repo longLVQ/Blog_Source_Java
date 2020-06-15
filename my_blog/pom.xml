@@ -36,8 +36,9 @@
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
+			<version>1.18.4</version>
 			<artifactId>lombok</artifactId>
-			<optional>true</optional>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
             <groupId>mysql</groupId>
